@@ -9375,3 +9375,9 @@ canvas {
     left: 0;
     background-color: black;
 }
+
+.spacingBox{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height:50px;
+}
